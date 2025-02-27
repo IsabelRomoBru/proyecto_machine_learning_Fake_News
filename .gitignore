@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*data.csv
+*.csv
+.DS_Store
+
+
