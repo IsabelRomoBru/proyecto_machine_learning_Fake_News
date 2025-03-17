@@ -40,3 +40,4 @@ spacy = "^3.8.4"
 xgboost = "^2.1.4"
 numba = { version = "^0.60.0", python = "" }
 shap = "^0.47.0"
+lightgbm = "^4.6.0"
